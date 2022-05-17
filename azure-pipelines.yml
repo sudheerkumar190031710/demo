@@ -37,7 +37,7 @@ steps:
   displayName: 'Use Python $(python.version)'
 
 
-- script: python "add.py"
+- script: python "demo.py"
 
 
 
